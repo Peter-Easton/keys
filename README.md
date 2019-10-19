@@ -1,20 +1,42 @@
-# keys
-This is a collection of public key information
+# Keys
+This is my public key certificate information.
 
 ## PGP Public Keys
-### The Root Key
+### Umbrella Signing 
 My Umbrella Signing PGP Public Key Certificate has the fingerprint:
-F7A7 F207 BC90 778D 649F  67EC 53CB 8649 E324 8148
-and has the UID: "Peter Easton (Umbrella Signer)"
-This key certifies all my genuine PGP Public Key Certificates, but are not used for anything else.
+
+`F7A7 F207 BC90 778D 649F  67EC 53CB 8649 E324 8148`
+
+and has the UID: `"Peter Easton (Umbrella Signer)"`
+
+This public key certificate certifies all my genuine PGP Public Key Certificates, but is not used for anything else.
 
 ### My Personal Keys
-My personal keys have the fingerprint:
-F440 497D FFAF 21AE 07F4  4B68 0218 85E0 772A B1BD
-and have the UID: "Peter Easton <JollyRoger@Mailfence.com>"
-This key is used for Encryption, Signing, and SSH. If you wish to get my SSH key here, it is a part of my Personal PGP Public Key Certificate but is here for convenience:
+My Personal PGP Public Key Certificate has the fingerprint: 
 
-#### My SSH key
-```
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDVsFCLy2anGCWdLZHJbqtp6OPvG/CQWxAgzGTTWkjRpB2OSRdoxPdtMbN8gUxV/23Z0LGaTbfloug5mTt+qrvNb3UVKVaAYXRNghFmDhaNSfskzyI/AGGqH7NBG8hg8MIWV0VNP8ywOfOeZq1iuEqPBVDhtBpq58fm02aAfp4JiWzNqUxuzk4oKU+TZT0TiSjep+k07GXegv7WaWy6kgw8ULo7S2l+x6Fs2gPEkuLWqCsZOLYQ827Sa41wdfziHzyGjVySIPB+Mygph/in7QdNRfv5yYyFR8jQ6jYk/jkOgA6dyrzwEjK7Pq1eaCgYpFOzkkumTUAgFdoo8U3v3Mt0I3nQgdds46DKz3oClIW5Xpl94L6Pq4qvNP3Qdxo7XNOwlBPtWHVW/fCXI12k0h7ICEaW5WyyMQb2dex0BbKiL4cVfow0yPhB7WH3PBwmt0/buSwFwdiAjLS+SBQEmvKP1pjJpCxE3v9ee7zhsok79C3efX6FN2Cf7MdmYU3HyJG+HT01Uaov/Ya08zkEw/KYne66kf5qc18nY+u9++eoyA6p/RaprunuQHC64EQ1wdJ3PpWmkqSQq3FCnRwqVk+056RSMiD/xPs/GrNrIoM8QN1NMIIwrWJs3pkbVK9B0XSXgBv504weLETzjAxnW4XeU1+2kB+q6RaMgBoa4QBpPQ== openpgp:0x4DD86C4B
-```
+`F440 497D FFAF 21AE 07F4  4B68 0218 85E0 772A B1BD`
+
+and has the UIDs: `"Peter Easton <Peter@JollyRoger.site>"` and `"Peter Easton <JollyRoger@Mailfence.com>"`
+
+This public key certificate is used for Encryption, Signing, and SSH and is published to the keyservers and my github account, and should be certified by my umbrella signing certificate. 
+
+### Previous and Retired Keys
+I don't use these keys anymore but they are listed here:
+
+`F062 8C97 9270 1397 1D20  7DA9 7714 7844 3B02 D250` 
+
+*Final fate:* Published to keyservers. Deliberately allowed to expire on October 18th of 2018. 
+
+*Reason:* I felt I had learned a lot more about endpoint security since, and had access to GPG hardware security tokens and a better, more trustworthy computer to generate and handle the cryptographic materials. I felt it was time to switch to new keys. 
+
+
+`1012 3D41 DC15 35E1 F7EA  D060 FCD6 7614 9C00 8D69`
+
+*Final fate:* Never published to keyservers and deliberately allowed to expire. 
+
+*Reason:* These keys were created only as a brief, interim measure until safer keys could be created, and were discontinued over concerns with the NIST Curve safety.  
+
+### Future Keys
+In the near-future, I may be transitioning back to EdDSA keys which will be generated using a hardware wallet to further distrust general-purpose computers, for greater peace of mind. Future PGP Public Key Certificates will be certified by the current ones to signify an authorized key rollover.
+
+
