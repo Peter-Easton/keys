@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Wire Swiss:
+@petereaston
+65 11 5e 5b a6 92 12 21 3d dd a7 90 40 3a d3 e8 ad 1d b1 40 c5 7b a2 bf 1d c6 57 5d bd f9 c4 9c
+Signed November 10th 2019, consider stale November 17th, 2019
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzBcKk6qH0j8Kqq3Ru6IoRpHaT4QFAl3IRHEACgkQu6IoRpHa
+T4TOeRAApDLgotU2wUugJ/vbnt47rx8/9KiMUwMgUoYqITk05A+jNlwcgXIFc2M2
+k3moyw3ulR/unEnIDTXUw92CQTz1S2g3yhcxrdqOZZfOc4YWV6QHPJ1dG+a4uduc
+vrv9iOQlzIaU2r0Ne1VQeClDyUBOi+9BvGAgyM+8OBY+6n0bbFlCXoTjbFlsRJ97
+2nsqMAlFcxR0YR4rQNeCL+oNbEln1DmdrPAMilJvLtabZLj7QLgT0M84v4FCOPRS
+Zytok1TfImAM/OvIGjlzj8Xt9AIam7STs/w2MzC+7LNlIyAaSJ37IeY00T/fuF9l
+HLDeoylOYEI9noqOdcnNdgrMf5JzzCrSuE2VcIJIM/sv6aRJ7HK17zv5IkWSw28s
+ca13rLUCSHkdkU9LN/k0pE6YNLjK54e/XkatIPRKeZX9XAWaKKnQkAYcyQPfrR+p
+g1SuE+nRwfT4vdxI8JU2LazZYj1XXB6x+8hFcDHKY4gUqdUDN/YFMNmMoJ2k+h+i
+GtIHw8Ecmc1HTaFNS72xJ5emSfnu5h1ukxawlVx3hckJ0yzlt5xyxHFs+F0xFvAT
+JOvOU9lZcUfgUadoraaz+R6pJaWRTXNDBQApZELyxYrZK8cf8IRyY+NfxeNnNz8L
+LKwNGS2z0HtkUkcZoXZTohq8jAbeyzhszwmT/OL0/r/wBjob35s=
+=9vqt
+-----END PGP SIGNATURE-----
