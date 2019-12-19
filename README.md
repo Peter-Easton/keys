@@ -16,7 +16,9 @@ My Personal PGP Public Key Certificate has the fingerprint:
 
 `F440 497D FFAF 21AE 07F4  4B68 0218 85E0 772A B1BD`
 
-and has the UIDs: `"Peter Easton <Peter@JollyRoger.site>"` and `"Peter Easton <JollyRoger@Mailfence.com>"`
+and has the UIDs: `"Peter Easton <Peter@JollyRogers.ca>"`, `"Peter Easton <Peter@JollyRoger.site"` and `"Peter Easton <JollyRoger@Mailfence.com>"`
+
+Please note I am moving from `JollyRoger.site` to `JollyRogers.ca` because the future of the .site top-level domain is owned by a for-profit entity, and its future is uncertain and could be subject to unexpected price hikes. As a result I am moving to a .ca TLD to try to avoid this, and expect the .site E-mail address to be revoked within approximately one year. 
 
 This public key certificate is used for Encryption, Signing, and SSH and is published to the keyservers and my github account, and should be certified by my umbrella signing certificate. 
 
