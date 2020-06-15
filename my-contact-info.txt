@@ -12,22 +12,21 @@ No end to end encryption availble as of this time.
 
 Matrix: "@JollyRoger:matrix.org"
 
-This information is current as of March 9th 2020
-Please consider it stale or obsolete if you get it after June 1st, 2020.
+This information is current as of June 15th, 2020
+Please consider it stale or obsolete if you get it after December 1st, 2020
 -----BEGIN PGP SIGNATURE-----
 
-iQJJBAEBCgAzFiEEzBcKk6qH0j8Kqq3Ru6IoRpHaT4QFAl5oWv8VHHBldGVyQGpv
-bGx5cm9nZXJzLmNhAAoJELuiKEaR2k+E9/4QALf3ALps9cSr2ap6l1HrhbbStp9n
-3vARZnGL7euLFPv78NxGaMtaZIRYpiPcFiNW0Sz/mUtUT41sqBGT9zsgc7kYTFF6
-SqA1Omsat+xttTTQMzrZenhBiUSJ7YRxPqHvzx4wDPt4I1T0gSkrAOr6uERZY9B6
-mm1JoF5MV8X91bGpYVYSP6emEcoz8LmxXKE/pBeVq/GyQFQRFNKAYU2Y0W3Ferkv
-692q5fq7ZiK/vtVdkhv+8dy0B04mRxYUjRwulcLhbfzy8ehcurt5Ghpnf0Je7Iaq
-M/1bHMb8dNTdZZHMw8i8eKiWKHJGytgiXzJEMSnB0KwdSpx4CS8+UQSel1NhWjdl
-cC4O4RChvq1jnXU01OuANb2mas0KCcLujOL/oQ4rMlZgell/s+7CKyK05nkkUG68
-Bg6g9+BPO4wR9+CDpEVA8HXZXAHa7TaKH8qTMLel//b5ndvZxtWbNEKvn9ooSlv+
-t4YQIzU7IG4aeRmm01XvdYzK1umw9FMZwQWjfwGizY1cP7ePuQYfxWc9oDxbY9sk
-I7cd/EJJIlHRKlVqOTAZbUwpQuBMQpIkDhgFF5g5/7I/R7h+mFH8OE7zRAvWZS/4
-JxMIlxjPcjElzo1GazPAxU1HDZU3G/UdHqFNGnfyzTtOrs8H2seEDRJ/qRo5Z6H9
-k0PWqLjfDTFc1KT7
-=5598
+iQIzBAEBCgAdFiEEzBcKk6qH0j8Kqq3Ru6IoRpHaT4QFAl7mx84ACgkQu6IoRpHa
+T4RwxxAAgBkRiAmaZ5uWda5mC1Bqp6DhFB+uUOvZQZ553ieZatuyR8c82lMt5+0H
+8jiXxAobA6ByCt0/NajDFeUtylbBrcTIlVGsRUDHRKzVpXDizRMfOKQASoryRv+W
+x/AQfIwEYnm9Dj1R65wGXdZgaES585tK+TMtd5Wtt9R+dhlSDF8Dm/u8b5nL62Ww
+6rftQ5tV3dCo+INkcSLIDSO1OEDXBtEio/zCJFc0yu+VzKrQgb6XFHQuuvqi0QJP
+cWn3LFdTvo5W3JYRCyjY2kOExi+33H97+v3LLgKU76hMqW+DgzZ2KQ566Jd387Ke
+Gap81vb0zInHwrkAxPJUxVGZfuL8+mtYr1mI1vkmtIKvk4LOkzETH60JowENgus3
+jHXC+w7Uy5QZcnzj3zCv/jEfy9kCwrjHFRAw8FiW/PgBGwNaywu5qxxmPEnje114
+s9qSktH48ToJlG7hqqSlTgoXi4SJOStjlM38CLxmtQ/o7f2sJPu11eZ8n4v4Tqgh
+DKyNV8Pu0R7tyLe3SEvwCXrkbaf96JOqiqW0lDn/UkDrEFUhomfavZOmOd06Bk5V
+KTql6zAIvDt+1xAS9JB06Qp2ICX0fBMqhroyhZ7NAzFtCCEpsK9SJMcIhtbU+QAd
+vQK4R+ECCfDZe8LeT0MPt/fmcUV8qmTPqqw79cRvGamtdYJ5ySo=
+=CNIV
 -----END PGP SIGNATURE-----
