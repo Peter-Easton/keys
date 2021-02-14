@@ -7,26 +7,25 @@ F440 497D FFAF 21AE 07F4  4B68 0218 85E0 772A B1BD
 Signal Private Messenger: +1 (226) 774-0516
 My half of our safety numbers: 11816 96567 96166 07094 87472 30823
 
-IRC: "TheJollyRoger" on Freenode.net
-No end to end encryption availble as of this time.
+Freenode.net: "TheJollyRoger"
+OFTC.net: "TheJollyRoger"
+No OTR nor OMEMO on IRC is available at this time, sorry.
 
-Matrix: "@JollyRoger:matrix.org"
-
-This information is current as of June 15th, 2020
-Please consider it stale or obsolete if you get it after December 1st, 2020
+This information is current as of February 14th, 2021
+Please consider it stale or obsolete if you get it after July 31, 2021
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEzBcKk6qH0j8Kqq3Ru6IoRpHaT4QFAl7mx84ACgkQu6IoRpHa
-T4RwxxAAgBkRiAmaZ5uWda5mC1Bqp6DhFB+uUOvZQZ553ieZatuyR8c82lMt5+0H
-8jiXxAobA6ByCt0/NajDFeUtylbBrcTIlVGsRUDHRKzVpXDizRMfOKQASoryRv+W
-x/AQfIwEYnm9Dj1R65wGXdZgaES585tK+TMtd5Wtt9R+dhlSDF8Dm/u8b5nL62Ww
-6rftQ5tV3dCo+INkcSLIDSO1OEDXBtEio/zCJFc0yu+VzKrQgb6XFHQuuvqi0QJP
-cWn3LFdTvo5W3JYRCyjY2kOExi+33H97+v3LLgKU76hMqW+DgzZ2KQ566Jd387Ke
-Gap81vb0zInHwrkAxPJUxVGZfuL8+mtYr1mI1vkmtIKvk4LOkzETH60JowENgus3
-jHXC+w7Uy5QZcnzj3zCv/jEfy9kCwrjHFRAw8FiW/PgBGwNaywu5qxxmPEnje114
-s9qSktH48ToJlG7hqqSlTgoXi4SJOStjlM38CLxmtQ/o7f2sJPu11eZ8n4v4Tqgh
-DKyNV8Pu0R7tyLe3SEvwCXrkbaf96JOqiqW0lDn/UkDrEFUhomfavZOmOd06Bk5V
-KTql6zAIvDt+1xAS9JB06Qp2ICX0fBMqhroyhZ7NAzFtCCEpsK9SJMcIhtbU+QAd
-vQK4R+ECCfDZe8LeT0MPt/fmcUV8qmTPqqw79cRvGamtdYJ5ySo=
-=CNIV
+iQIzBAEBCgAdFiEEzBcKk6qH0j8Kqq3Ru6IoRpHaT4QFAmAooc8ACgkQu6IoRpHa
+T4QXxRAAis9lOFNsHf8tp0dqLbnE6DPi5DP+G0gQm8MUrS5JVWRQ2fVmVByGwnoN
+jvMX8LZrFyEYtVOWNho+LwBVelbJhrExc3JACrejXeiNJs20eg2DPS2tkoiqFBFh
+YN1TiT7yY8lB9Rfm0BeTO1eNKeieQlaQdw9UqrLEZGLAZv0spsWoLG4yymZictkP
+JuTzUw9IE4bXmyrlg45sSJM6qBnFs+hzyojsq043BgObWKlH1ctGeb2uMO+eYfhP
+bKqMdIfhjhfTPtXd8pSyDgtXZiuUI+UE3SXLQuwjsmP42AY6Q/NjTW+Iq40cLOxr
+eQixQwWvIWyzSC1Gog41ubhMAzJ5TYNB/G24R7yS5ABt6ffwQ4dc7SdZIue5Nu8F
+AnJ2JKIMk2DK12Twn3m2WaV/8Va4l+BvHPd8sYIUyjpRfVLP39C7q1Z1kHFekgzz
+W63/JyYYNM9AvTFvmNEnc3jhs34dWS+ppxBKmE6679uWoyMoVFVTa8jrX+U9uMd0
+Rrbt/xD71u4MZHCft63jcR8gqdXhlKkMXDqMOO2FIg8gT9sWtFYhAfl//4WPrQYG
+nVOSViSP2tKn2MwCIo6r5dmLvLTwttG+U9OVGWMU/NUcmqmQdJtM+vbYgSV8NhBT
+iFXFmgp3AI8d/vF++Pgp+/PCMCo/VjrZF8DzjkMJBDvqGmfz+/k=
+=oPjj
 -----END PGP SIGNATURE-----
