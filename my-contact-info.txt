@@ -7,25 +7,25 @@ F440 497D FFAF 21AE 07F4  4B68 0218 85E0 772A B1BD
 Signal Private Messenger: +1 (226) 774-0516
 My half of our safety numbers: 11816 96567 96166 07094 87472 30823
 
-Freenode.net: "TheJollyRoger"
+Libera.net: "JollyRoger"
 OFTC.net: "TheJollyRoger"
 No OTR nor OMEMO on IRC is available at this time, sorry.
 
-This information is current as of February 14th, 2021
-Please consider it stale or obsolete if you get it after July 31, 2021
+This information is current as of October 27th, 2021
+Please consider it stale or obsolete if you get it after March 31, 2022
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEzBcKk6qH0j8Kqq3Ru6IoRpHaT4QFAmAooc8ACgkQu6IoRpHa
-T4QXxRAAis9lOFNsHf8tp0dqLbnE6DPi5DP+G0gQm8MUrS5JVWRQ2fVmVByGwnoN
-jvMX8LZrFyEYtVOWNho+LwBVelbJhrExc3JACrejXeiNJs20eg2DPS2tkoiqFBFh
-YN1TiT7yY8lB9Rfm0BeTO1eNKeieQlaQdw9UqrLEZGLAZv0spsWoLG4yymZictkP
-JuTzUw9IE4bXmyrlg45sSJM6qBnFs+hzyojsq043BgObWKlH1ctGeb2uMO+eYfhP
-bKqMdIfhjhfTPtXd8pSyDgtXZiuUI+UE3SXLQuwjsmP42AY6Q/NjTW+Iq40cLOxr
-eQixQwWvIWyzSC1Gog41ubhMAzJ5TYNB/G24R7yS5ABt6ffwQ4dc7SdZIue5Nu8F
-AnJ2JKIMk2DK12Twn3m2WaV/8Va4l+BvHPd8sYIUyjpRfVLP39C7q1Z1kHFekgzz
-W63/JyYYNM9AvTFvmNEnc3jhs34dWS+ppxBKmE6679uWoyMoVFVTa8jrX+U9uMd0
-Rrbt/xD71u4MZHCft63jcR8gqdXhlKkMXDqMOO2FIg8gT9sWtFYhAfl//4WPrQYG
-nVOSViSP2tKn2MwCIo6r5dmLvLTwttG+U9OVGWMU/NUcmqmQdJtM+vbYgSV8NhBT
-iFXFmgp3AI8d/vF++Pgp+/PCMCo/VjrZF8DzjkMJBDvqGmfz+/k=
-=oPjj
+iQIzBAEBCgAdFiEEzBcKk6qH0j8Kqq3Ru6IoRpHaT4QFAmF5BDIACgkQu6IoRpHa
+T4SIHBAAkMTjgyCyAdD0l3OHtO7ZxpUuhRjr1GooyO8MWbI6lf5eA74fysKBds+9
+jBtD7L6vIa1k6FvgbOABrxHGazrRVluP2rgPnSvoNuAvO6uj/Jb+yV4Rb5M2erw1
+V/whooVvP6y8tiB1AI00G5Skashi8OyE1Cl2piBO6/QexWQfJpN4o92U7TJc5BJx
+8/1BU+YgtiWXb34jk5T5IQB03aRpAls+H6ucEqfCbrjhsOK9CYiPbZacX4wxbYkC
+C3ACGfu6wboRxsYUsf9h0V4x8xwnQL39C6hZFBERlRV6ykeVAngEMPzYoO69CkJJ
+cppJ5oe1S8ZutB2Gqe7k2fVIjM/Ztrs5ukdsZJ8G7kN3WjT+0tONMNqGB/qgcLcN
+lZ5EIL4a4+lIrxcp/r3zuXa2HrCm4OrlHYqqCo57zPGWOSYP4GmiMJynn1r9zNyD
+mutrz4H6alXw0mwOx5PG7fTU0UmfzEg86Jzswr0EzE3ya9G4y4B3t2so3FwmpJuj
+ejoxQTD4QZoKRtudgr2uNW6IMqncUEH0zhdd5dNGGgu26/H5ZhVzZ6ZbY5MtMkDa
+ouZXqv9r9SJ6LILhjmyYqzOfk/pJ752SQjvbwtJfNmKpSxrmQY5AC0S09ZoKBWo7
+5J1SHv4pPLbE2P+gpfYTCagRGqLsNZc63Xce+AO20ue6hcFZ//Q=
+=OU7n
 -----END PGP SIGNATURE-----
